@@ -1,0 +1,16 @@
+body{
+    color: white;
+    margin: 0;
+    background-image: url("pics/ExcitableGlossyLcont-size_restricted.gif");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top;
+}
+.spacer{
+    height: 50vh;
+}
+section{
+    padding: 3em;
+    background: rgba(50,50,50,0.8);
+    text-align: center;
+}
